@@ -4,7 +4,7 @@ Minhas soluções para o plano de estudos [SQL 50](https://leetcode.com/studypla
 
 Os problemas estão organizados por tópico, na mesma ordem do plano. Nos problemas de nível médio e difícil, cada solução traz também o raciocínio que usei para chegar nela.
 
-**Progresso:** 8 / 50
+**Progresso:** 12 / 50
 
 ## Select
 
@@ -23,3 +23,7 @@ Os problemas estão organizados por tópico, na mesma ordem do plano. Nos proble
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | [SQL](02-basic-joins/1378-replace-employee-id-with-the-unique-identifier.sql) |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | [SQL](02-basic-joins/1068-product-sales-analysis-i.sql) |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | [SQL](02-basic-joins/1581-customer-who-visited-but-did-not-make-any-transactions.sql) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | [SQL](02-basic-joins/197-rising-temperature.sql) |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | Easy | [SQL](02-basic-joins/1661-average-time-of-process-per-machine.sql) |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | [SQL](02-basic-joins/577-employee-bonus.sql) |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | [SQL](02-basic-joins/1280-students-and-examinations.sql) |
