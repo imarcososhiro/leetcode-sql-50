@@ -1,0 +1,11 @@
+# Segredos (ex.: cookie LEETCODE_SESSION de ferramentas de exportação)
+.env
+*.env
+*cookie*
+
+# Sistema / editores
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
